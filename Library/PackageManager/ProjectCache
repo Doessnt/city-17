@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638339300311525097
+      ticks: 638343650732350950
     m_Hash: 645630612
   m_LockFileStatus:
     m_FilePath: C:/Users/56/Desktop/city-17/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638339300311525097
+      ticks: 638343650732350950
     m_Hash: 1819535351
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -353,15 +353,11 @@ m_ResolvedPackages:
     - 2.1.0-preview.3
     - 2.1.0-preview.5
     - 2.1.0-preview.6
-    - 2.1.0
-    - 2.2.0
     compatible:
     - 2.0.7
     - 2.1.0-preview.3
     - 2.1.0-preview.5
     - 2.1.0-preview.6
-    - 2.1.0
-    - 2.2.0
     recommended: 2.0.7
     deprecated: []
   dependencies: []
@@ -587,7 +583,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: asset
+  type: 
   description: The post-processing stack (v2) comes with a collection of effects
     and image filters you can apply to your cameras to improve the visuals of your
     games.
@@ -595,46 +591,9 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 0.1.7
-    - 0.1.8
-    - 2.0.0-beta
-    - 2.0.1-beta
-    - 2.0.2-preview
-    - 2.0.3-preview
-    - 2.0.5-preview
-    - 2.0.7-preview
-    - 2.0.8-preview
-    - 2.0.9-preview
-    - 2.0.10-preview
-    - 2.0.11-preview
-    - 2.0.12-preview
-    - 2.0.13-preview
-    - 2.0.14-preview
-    - 2.0.15-preview
-    - 2.0.16-preview
-    - 2.0.17-preview
-    - 2.1.0
-    - 2.1.1
-    - 2.1.2
-    - 2.1.3
-    - 2.1.4
-    - 2.1.5
-    - 2.1.6
-    - 2.1.7
-    - 2.2.1
-    - 2.2.2
-    - 2.3.0
-    - 3.0.1
-    - 3.0.3
-    - 3.1.0
-    - 3.1.1
-    - 3.2.0
-    - 3.2.1
     - 3.2.2
-    - 3.3.0
     compatible:
     - 3.2.2
-    - 3.3.0
     recommended: 3.2.2
     deprecated: []
   dependencies:
@@ -654,7 +613,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637855259850000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -794,7 +753,6 @@ m_ResolvedPackages:
     - 3.2.0-pre.3
     - 3.2.0-pre.4
     - 3.2.0-pre.5
-    - 3.2.0-pre.6
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     compatible:
@@ -804,7 +762,6 @@ m_ResolvedPackages:
     - 3.2.0-pre.3
     - 3.2.0-pre.4
     - 3.2.0-pre.5
-    - 3.2.0-pre.6
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     recommended: 3.0.6
@@ -949,25 +906,19 @@ m_ResolvedPackages:
     - 1.7.3
     - 1.7.4
     - 1.7.5
-    - 1.7.6
     - 1.8.0
     - 1.8.1
     - 1.8.2
     - 1.8.3
     - 1.8.4
-    - 1.8.5
-    - 1.8.6
     compatible:
     - 1.7.5
-    - 1.7.6
     - 1.8.0
     - 1.8.1
     - 1.8.2
     - 1.8.3
     - 1.8.4
-    - 1.8.5
-    - 1.8.6
-    recommended: 1.7.6
+    recommended: 1.7.5
     deprecated: []
   dependencies:
   - name: com.unity.modules.director
@@ -1139,11 +1090,9 @@ m_ResolvedPackages:
     - 1.8.0-pre.1
     - 1.8.0
     - 1.9.0
-    - 1.9.1
     compatible:
     - 1.9.0
-    - 1.9.1
-    recommended: 1.9.1
+    recommended: 1.9.0
     deprecated:
     - 1.8.0-pre.1
   dependencies:
@@ -3132,14 +3081,10 @@ m_ResolvedPackages:
     - 2.0.17
     - 2.0.18
     - 2.0.20
-    - 2.0.21
-    - 2.0.22
     compatible:
     - 2.0.18
     - 2.0.20
-    - 2.0.21
-    - 2.0.22
-    recommended: 2.0.22
+    recommended: 2.0.20
     deprecated: []
   dependencies:
   - name: com.unity.test-framework
@@ -3240,13 +3185,9 @@ m_ResolvedPackages:
     - 3.0.21
     - 3.0.22
     - 3.0.24
-    - 3.0.25
-    - 3.0.26
     compatible:
     - 3.0.24
-    - 3.0.25
-    - 3.0.26
-    recommended: 3.0.26
+    recommended: 3.0.24
     deprecated: []
   dependencies:
   - name: com.unity.ext.nunit
@@ -3363,7 +3304,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: asset
+  type: 
   description: 'The editor coroutines package allows developers to start constructs
     similar to Unity''s monobehaviour based coroutines within the editor using abitrary
     objects. '
@@ -3371,12 +3312,6 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 0.0.1-preview.3
-    - 0.0.1-preview.4
-    - 0.0.1-preview.5
-    - 0.0.2-preview.1
-    - 0.1.0-preview.1
-    - 0.1.0-preview.2
     - 1.0.0
     compatible:
     - 1.0.0
@@ -3398,7 +3333,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637232611380000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -3428,7 +3363,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: asset
+  type: 
   description: "The Profile Analyzer tool supports the standard Unity Profiler. You
     can use it to analyze multiple frames and multiple data sets of the CPU data
     in the Profiler.\n\nMain features: \n\u25AA Multi-frame analysis of a single
@@ -3438,19 +3373,6 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 0.4.0-preview.3
-    - 0.4.0-preview.5
-    - 0.4.0-preview.6
-    - 0.5.0-preview.1
-    - 0.6.0-preview.1
-    - 0.7.0-preview.4
-    - 1.0.0
-    - 1.0.1
-    - 1.0.2
-    - 1.0.3
-    - 1.1.0-pre.2
-    - 1.1.0
-    - 1.1.1
     - 1.2.2
     compatible:
     - 1.2.2
@@ -3469,7 +3391,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638108624620000000
+  datePublishedTicks: 0
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.performance.profile-analyzer@1.2/manual/index.html
   hasRepository: 1
   repository:
@@ -3547,7 +3469,6 @@ m_ResolvedPackages:
     - 1.3.5
     - 1.3.7
     - 1.3.8
-    - 1.3.9
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
@@ -3562,7 +3483,6 @@ m_ResolvedPackages:
     - 1.3.5
     - 1.3.7
     - 1.3.8
-    - 1.3.9
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
@@ -3626,7 +3546,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: asset
+  type: 
   description: Use this package to export code coverage data and reports from your
     automated tests. Additionally, the Code Coverage package offers a Coverage Recording
     feature which allows capturing coverage data on demand, for manual testing or
@@ -3635,35 +3555,6 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 0.2.0-preview
-    - 0.2.1-preview
-    - 0.2.2-preview
-    - 0.2.3-preview
-    - 0.3.0-preview
-    - 0.3.1-preview
-    - 0.4.0-preview
-    - 0.4.1-preview
-    - 0.4.2-preview
-    - 0.4.3-preview
-    - 1.0.0-pre.1
-    - 1.0.0-pre.2
-    - 1.0.0-pre.3
-    - 1.0.0-pre.4
-    - 1.0.0
-    - 1.0.1
-    - 1.1.0
-    - 1.1.1
-    - 1.2.0-exp.1
-    - 1.2.0-exp.2
-    - 1.2.0-exp.3
-    - 1.2.0-exp.4
-    - 1.2.0-exp.5
-    - 1.2.0-exp.6
-    - 1.2.0-exp.7
-    - 1.2.0
-    - 1.2.1
-    - 1.2.2
-    - 1.2.3
     - 1.2.4
     compatible:
     - 1.2.4
@@ -3700,7 +3591,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638212235100000000
+  datePublishedTicks: 0
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.testtools.codecoverage@1.2/manual/index.html
   hasRepository: 1
   repository:
@@ -3730,20 +3621,13 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: asset
+  type: 
   description: A framework for making any serializable field a setting, complete
     with a pre-built settings interface.
   status: 0
   errors: []
   versions:
     all:
-    - 0.1.0-preview.4
-    - 0.1.0-preview.8
-    - 1.0.0
-    - 1.0.1
-    - 1.0.2
-    - 1.0.3
-    - 2.0.0
     - 2.0.1
     compatible:
     - 2.0.1
@@ -3762,7 +3646,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637744099390000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
